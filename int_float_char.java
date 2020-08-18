@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Basic_datatype {
+public class int_float_char {
     public static void main(String[] args) {
         Scanner Keyboard = new Scanner(System.in);
         //int
